@@ -1,0 +1,113 @@
+
+body {
+    background-color: #000000;
+    
+    
+}
+
+
+.container {
+    width:460px;
+    margin: 70px auto;
+    position: relative;
+    
+
+
+}
+
+
+.boxblau1{
+        background: #3a3e80;
+        width: 150px;
+        height: 150px;
+        border-radius: 6px;
+    
+}
+
+.boxblau2{
+    background: #3a3e80;
+    width: 150px;
+    height: 150px;
+    border-radius: 6px;
+
+}
+
+.boxblau3{
+    background: #3a3e80;
+    width: 150px;
+    height: 150px;
+    border-radius: 6px;
+
+}
+
+.boxrosa1{
+    background: #b12f7b;
+    width: 150px;
+    height: 150px;
+    border-radius: 6px;
+
+}
+
+.boxrosa1{
+    background: #b12f7b;
+    width: 150px;
+    height: 150px;
+    border-radius: 6px;
+
+}
+
+.boxrosa2{
+    background: #b12f7b;
+    width: 150px;
+    height: 150px;
+    border-radius: 6px;
+
+}
+
+
+.boxrosa3{
+    background: #b12f7b;
+    width: 150px;
+    height: 150px;
+    border-radius: 6px;
+
+}
+
+.boxrosa4{
+    background: #b12f7b;
+    width: 150px;
+    height: 150px;
+    border-radius: 6px;
+
+}
+
+
+.boxorange1{
+    background: #fb900d;
+    width: 150px;
+    height: 150px;
+    border-radius: 6px;
+
+}
+
+
+.boxorange2{
+    background: #fb900d;
+    width: 150px;
+    height: 150px;
+    border-radius: 6px;
+
+}
+
+
+
+th , td {
+    padding: 2px;
+}
+
+
+.buttons{
+    color: #ffffff;
+    font-size: 65px;
+    padding: 12px;
+}
